@@ -248,7 +248,9 @@ section .titlecc::after{
 }
 
 /* about section styling */
-
+.about .title{
+  color: #B84900; /* delete this or change to #fff */
+}
 .about .title::after{
     content: "who i am";
     color: #EABD00;
@@ -332,11 +334,11 @@ section .titlecc::after{
 
 
 /* volunteer section styling */
-.volunteer, .teams{
+.volunteer{
     color:#fff;
     background: #0F3E44;
 }
-.volunteer .title::before{
+.volunteer .title::before{f
     background: #fff;
 }
 .volunteer .title::after{
