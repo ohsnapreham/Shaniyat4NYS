@@ -260,6 +260,10 @@ section .titlecc::after{
     width: 45%;
 }
 
+.about .title::before{
+    background: #B84900;
+}
+
 .about .clrcng{
   color: #B84900;
 }
