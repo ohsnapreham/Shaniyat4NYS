@@ -259,6 +259,10 @@ section .titlecc::after{
 .about .about-content .left{
     width: 45%;
 }
+
+.about .clrcng{
+  color: #B84900;
+}
 .about .about-content .left img{
     height: 600px;
     width: 400px;
