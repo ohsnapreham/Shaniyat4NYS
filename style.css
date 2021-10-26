@@ -308,7 +308,7 @@ section .titlecc::after{
 /* issues section styling */
 
 .issues .titlecc::after{ 
-    content: "issues";
+    content: "let's build";
 }
 
 .issues .issues-content .left{
