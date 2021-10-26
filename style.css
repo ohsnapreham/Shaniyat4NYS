@@ -308,7 +308,7 @@ section .titlecc::after{
 /* issues section styling */
 
 .issues .titlecc::after{ 
-    content: "Let's Build";
+    content: "let's build";
 }
 
 .issues .issues-content .left{
@@ -320,7 +320,7 @@ section .titlecc::after{
 }
 .issues .titlecc::after{
     background: #FDF8E6;
-    content: "Let's Build";
+    content: "let's build";
     color: #66cccc;
 }
 
